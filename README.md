@@ -153,6 +153,16 @@ y_t,\ldots,y_{t-(w-r)}
 \right)
 \]
 
+
+$$
+\hat{\mathbf{y}}_{t+r:t+ks}
+=
+f_1\left(
+\hat{y}_{t+r-1},\ldots,\hat{y}_{t+1},
+y_t,\ldots,y_{t-(w-r)}
+\right)
+$$
+
 At the first iteration, the input consists entirely of observed values. At subsequent iterations, previously generated predictions are incorporated into the input sequence, replacing the oldest observations.
 
 ### DirRecMO
