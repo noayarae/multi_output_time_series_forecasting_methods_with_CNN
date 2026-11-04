@@ -6,6 +6,9 @@
 #### Overview
 This repository provides datasets and Python implementations of convolutional neural network (CNN) models for long-term aboveground biomass time-series forecasting. It accompanies the study published in Machine Learning and Knowledge Extraction (2024).
 
+$$
+\hat{y}_{t+1} = f_1(y_t, y_{t-1}, \ldots, y_{t-w+1})
+$$
 
 ### Methodological Background and Development
 
