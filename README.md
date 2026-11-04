@@ -16,10 +16,12 @@ This study introduces two additional forecasting strategies that extend existing
 These strategies extend the available methodological options for multi-step forecasting by introducing alternative ways to structure predictions across multiple future time steps.
 
 **Repository contents**
+
 This repository includes the aboveground biomass time-series datasets and Python code for implementing and evaluating CNN-based forecasting models using the established strategies and the two proposed methods, RECMO and DirRecMO.
 
 **Reference**
-Noa-Yarasca, E., Leyton, J. M. O., & Angerer, J. P. (2024). Extending Multi-Output Methods for Long-Term Aboveground Biomass Time Series Forecasting Using Convolutional Neural Networks. Machine Learning and Knowledge Extraction, 6(3), 1633–1652.
+
+- Noa-Yarasca, E., Leyton, J. M. O., & Angerer, J. P. (2024). Extending Multi-Output Methods for Long-Term Aboveground Biomass Time Series Forecasting Using Convolutional Neural Networks. Machine Learning and Knowledge Extraction, 6(3), 1633–1652.
 
 https://doi.org/10.3390/make6030079
 
