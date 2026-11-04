@@ -152,6 +152,18 @@ $$
 \begin{aligned}
 \hat{\mathbf{y}}_{t+r:t+ks}
 &= f_1\bigl(
+\hat{y}_{t+r-1}, \ldots, \hat{y}_{t+1},
+&\qquad y_t, \ldots, y_{t-(w-r)}
+\bigr)
+\end{aligned}
+$$
+
+
+
+$$
+\begin{aligned}
+\hat{\mathbf{y}}_{t+r:t+ks}
+&= f_1\bigl(
 \hat{y}_{t+r-1}, \ldots, \hat{y}_{t+1},\\
 &\qquad y_t, \ldots, y_{t-(w-r)}
 \bigr)
