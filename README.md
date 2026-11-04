@@ -47,3 +47,29 @@ This repository includes the aboveground biomass time-series datasets and Python
 https://doi.org/10.3390/make6030079
 
 
+
+
+
+### Original Development and Publication
+
+RECMO and DirRecMO were introduced by Efrain Noa-Yarasca, Javier M. Osorio Leyton, and Jay P. Angerer in the following peer-reviewed publication:
+
+Noa-Yarasca, E., Leyton, J. M. O., & Angerer, J. P. (2024). Extending Multi-Output Methods for Long-Term Aboveground Biomass Time Series Forecasting Using Convolutional Neural Networks. *Machine Learning and Knowledge Extraction*, 6(3), 1633–1652.
+
+https://doi.org/10.3390/make6030079
+
+This repository provides the datasets and Python implementations associated with the published study, including the original implementations of RECMO and DirRecMO.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
