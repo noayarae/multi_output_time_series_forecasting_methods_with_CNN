@@ -7,7 +7,7 @@
 This repository provides datasets and Python implementations of convolutional neural network (CNN) models for long-term aboveground biomass time-series forecasting. It accompanies the study published in Machine Learning and Knowledge Extraction (2024).
 
 
-## Methodological Background and Development
+### Methodological Background and Development
 
 Multi-step time-series forecasting methods have evolved to address the challenge of predicting multiple future observations while accounting for dependencies among forecasted values.
 
