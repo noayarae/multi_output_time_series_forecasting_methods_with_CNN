@@ -148,6 +148,10 @@ In RECMO, the same forecasting function \(f_1\) is used at every iteration. The 
 The general formulation is:
 
 $$
+\hat{y}_{t+1} = f_1(y_t, y_{t-1}, \ldots, y_{t-w+1})
+$$
+
+$$
 \hat{\mathbf{y}}_{t+r:t+ks}
 =
 f_1\left(
