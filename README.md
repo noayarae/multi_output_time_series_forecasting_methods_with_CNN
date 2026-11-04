@@ -30,7 +30,7 @@ The following figure, reproduced from the published article (Figure 3), illustra
 
 <!-- Upload Figure 3 to the repository and replace the filename below with its actual path. -->
 
-![Comparison of forecasting strategies, including RECMO and DirRecMO](figures/figure3.png)
+![Comparison of forecasting strategies, including RECMO and DirRecMO](https://github.com/noayarae/multi_output_time_series_forecasting_methods_with_CNN/blob/main/figure_3.png?raw=true)
 
 *Figure 3. Conceptual representation of the forecasting strategies evaluated in Noa-Yarasca et al. (2024).*
 
